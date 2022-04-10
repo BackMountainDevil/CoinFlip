@@ -1,3 +1,5 @@
+**本代码暂无继续维护的计划（Maintenance Stop）**
+
 Introduction
 A common game.
 Contact with E-mail: kearneyback@gmail.com
